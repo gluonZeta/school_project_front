@@ -1,1 +1,15 @@
 /* You can add global styles to this file, and also import other style files */
+
+
+.welcome-title {
+    font-size: 20px;
+    font-family: 'georgia';   
+    font-weight: bold;   
+    text-align: center;
+}
+
+.gluon-container-border {
+    border: dashed rgb(0, 153, 255);
+}
+
+
